@@ -12,9 +12,7 @@ Comparison of pretrained deep learning models for **4-class skin lesion classifi
 | Model | Accuracy | Precision | Recall | F1-Score | AUC |
 |---|---:|---:|---:|---:|---:|
 | AlexNet | 25.00% | 6.25% | 25.00% | 10.00% | 50.00% |
-
 | VGG16 | 37.50% | 46.47% | 37.50% | 37.12% | 75.55% |
-
 | VGG19 | 35.94% | 27.93% | 35.94% | 30.84% | 78.58% |
 | **ResNet18** | **67.19%** | **71.06%** | **67.19%** | **64.02%** | **87.70%** |
 | ResNet50 | 25.00% | 6.25% | 25.00% | 10.00% | 50.24% |
